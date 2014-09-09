@@ -43,7 +43,7 @@ For instance:
 7.class
 # => Fixnum
 
-5.8class
+5.8.class
 # => Float
 
 ["panda", "sloth", "sugar glider"].class
