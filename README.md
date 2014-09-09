@@ -33,7 +33,7 @@ Deep Cut Examples:
 | Nil | nil | The word nil not surrounded by any quotes (then it would be a string!)|
 | Class | nil.class.class | Don't worry too much about this one!
 
-If you don't know what class some data type is, ou can just call `.class` on it. 
+If you don't know what class some data type is, you can just call `.class` on it. 
 
 For instance:
 ```ruby
