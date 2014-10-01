@@ -20,7 +20,8 @@ Classic Examples:
 
 | Class | Example | Syntax |
 |-------|---------|--------|
-| String | "hello" | quotation marks on either end |
+| Single quote string | 'hello' | single quotation marks on either end, and reads the string exactly how it looks |
+| Double quote string | "hello" | double quotation marks on either end, and can do more complex stuff like interpret ruby |
 | Fixnum | 9 | whole, non-decimal number |
 | Float | 9.1 | decimal number |
 | Array | [1,2,3] | comma-separated values surrounded by square brackets
