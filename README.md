@@ -29,19 +29,21 @@ The above string is an instance of Ruby's String class. In other words, the `"he
 
 ###Creating Strings
 
-There are a number of ways to create a string. In fact, we've already created a string just by typing `"hello"`. 
+There are two ways to create a string. In fact, we've already created a string just by typing `"hello"`. 
 
 Try it out by opening up IRB, and typing `"hello".class` 
 
 You should see a return value of ` => String `. You can actually call `.class` on any object to find out what type of data, i.e. what class, it is. 
 
-You can also create a string with `String.new`. This will create an empty string. 
+**The Literal Constructor:** This is the method through which we created our "hello" string. 
+
+**The Class Constructor:** You can also create a string with `String.new`. This will create an empty string. 
 
 `String.new("hello")` on the other hand, will create this string: `"hello"`. For the most part, you will create strings using the first method discussed here––simply by enclosing whatever text you want in quotes. 
 
 ###Operating on Strings
 
-Because every string is an instance of, or is based on, Ruby's String class, there are certain behaviors, or methods, available to us for operating on them. You can learn more about the many String methods by reading the Ruby documentation on Strings. For now, we'll just take a look at a few examples. 
+Because every string is an instance of, or is based on, Ruby's String class, there are certain behaviors, or methods, available to us for operating on them. You can learn more about the many String methods by reading the [Ruby documentation](http://ruby-doc.org/core-2.2.0/String.html) on Strings. For now, we'll just take a look at a few examples. 
 
 ```ruby
 "hello".size 
@@ -106,11 +108,11 @@ Arrays are collections of Ruby objects. You can store any type of data in an arr
 
 ###Creating Arrays
 
-There are a number of ways to create an array. 
+There are a number of ways to create an array. Just like with creating strings, you can use the literal constructor or the class constructor. 
 
-`[1, 3, 400, 7]` is an array of integers. Any set of comma separated data enclosed in brackets is an array. So, by simply writing something like the above, you can create an array. 
+**The Litereal Constructor:**`[1, 3, 400, 7]` is an array of integers. Any set of comma separated data enclosed in brackets is an array. So, by simply writing something like the above, you can create an array. 
 
-You can also create an array with the `Array.new` syntax. Just typing `Array.new` will created an empty array (`=> []`). 
+**The Class Constructor:** You can also create an array with the `Array.new` syntax. Just typing `Array.new` will created an empty array (`=> []`). 
 
 ###Operating on Arrays
 There are many ways to operate on arrays and on each individual item, or element, within an array. Later on in the course, we'll learn about iteration––the process of operating on each successive item in an array. For now, we'll preview a few array methods, and you can check out more [here](http://ruby-doc.org/core-2.2.0/Array.html). 
