@@ -112,7 +112,7 @@ There are a number of ways to create an array. Just like with creating strings, 
 
 **The Litereal Constructor:**`[1, 3, 400, 7]` is an array of integers. Any set of comma separated data enclosed in brackets is an array. So, by simply writing something like the above, you can create an array. 
 
-**The Class Constructor:** You can also create an array with the `Array.new` syntax. Just typing `Array.new` will created an empty array (`=> []`). 
+**The Class Constructor:** You can also create an array with the [`Array.new` syntax](http://ruby-doc.org/core-2.2.0/Array.html). Just typing `Array.new` will created an empty array (`=> []`). 
 
 ###Operating on Arrays
 There are many ways to operate on arrays and on each individual item, or element, within an array. Later on in the course, we'll learn about iteration––the process of operating on each successive item in an array. For now, we'll preview a few array methods, and you can check out more [here](http://ruby-doc.org/core-2.2.0/Array.html). 
@@ -134,7 +134,11 @@ Hashes look like this:
 The curly brackets denote the hash and this particular hash has two key/value pairs. 
 
 ###Creating Hashses
-You can create a hash by simply writing something like the above example. Or, you can use the `Hash.new` syntax, which would create and empty hash, `{}`. 
+Hashes can be created with literal construcotrs and class constructors. 
+
+**The Litral Constructor:** You can create a hash by simply writing key/value pairs enclosed in curly braces. 
+
+**The Class Constructor:** Or, you can use the [`Hash.new` syntax](http://ruby-doc.org/core-2.2.0/Hash.html), which would create an empty hash, `{}`. 
 
 ###Operating on Hashes
 There are many methods for operating on hashes and their individual key/value pairs. We will learn much more about them later, but you can preview some [here](http://ruby-doc.org/core-2.2.0/Hash.html). 
