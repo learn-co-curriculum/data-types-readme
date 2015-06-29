@@ -133,7 +133,7 @@ Hashes look like this:
 
 The curly brackets denote the hash and this particular hash has two key/value pairs. 
 
-###Creating Hashses
+###Creating Hashes
 Hashes can be created with literal constructors and class constructors. 
 
 **The Litral Constructor:** You can create a hash by simply writing key/value pairs enclosed in curly braces. 
