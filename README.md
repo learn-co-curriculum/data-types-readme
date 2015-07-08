@@ -86,7 +86,7 @@ There are a number of methods available to you for operating on or manipulating 
 7.5.floor
   => this method will round the float down to the nearest fixnum. Here it will return 7
 
-7.5.ceiling 
+7.5.ceil
   => 8
 10.next
   => 11
