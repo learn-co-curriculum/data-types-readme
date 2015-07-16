@@ -110,7 +110,7 @@ Arrays are collections of Ruby objects. You can store any type of data in an arr
 
 There are a number of ways to create an array. Just like with creating strings, you can use the literal constructor or the class constructor. 
 
-**The Litereal Constructor:**`[1, 3, 400, 7]` is an array of integers. Any set of comma separated data enclosed in brackets is an array. So, by simply writing something like the above, you can create an array. 
+**The Literal Constructor:**`[1, 3, 400, 7]` is an array of integers. Any set of comma separated data enclosed in brackets is an array. So, by simply writing something like the above, you can create an array. 
 
 **The Class Constructor:** You can also create an array with the [`Array.new` syntax](http://ruby-doc.org/core-2.2.0/Array.html). Just typing `Array.new` will created an empty array (`=> []`). 
 
@@ -136,7 +136,7 @@ The curly brackets denote the hash and this particular hash has two key/value pa
 ###Creating Hashes
 Hashes can be created with literal constructors and class constructors. 
 
-**The Litral Constructor:** You can create a hash by simply writing key/value pairs enclosed in curly braces. 
+**The Literal Constructor:** You can create a hash by simply writing key/value pairs enclosed in curly braces. 
 
 **The Class Constructor:** Or, you can use the [`Hash.new` syntax](http://ruby-doc.org/core-2.2.0/Hash.html), which would create an empty hash, `{}`. 
 
