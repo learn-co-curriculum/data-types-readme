@@ -70,7 +70,7 @@ We don't!
 
 You probably already know from the real world (as opposed to the Ruby world) that integers are numbers. In Ruby, there are two types of numbers: Fixnums and Floats. 
 
-**Fixums** are whole numbers, like `7`. 
+**Fixnums** are whole numbers, like `7`. 
 
 **Floats** are decimal numbers, like `7.3`. 
 
