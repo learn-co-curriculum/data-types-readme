@@ -93,7 +93,7 @@ There are a number of methods available to you for operating on or manipulating 
 ```
 
 ##Symbols
-A symbol is a representation of a piece of data. Symbols look like this `:my_symbol`. If I make a symbol, `:my_symbol`, and then use than symbol later on in my code, my program will refer to the same area of memory in both cases. This is different from, for example, strings, which take up new areas of memory every time they are used. 
+A symbol is a representation of a piece of data. Symbols look like this `:my_symbol`. If I make a symbol, `:my_symbol`, and then use that symbol later on in my code, my program will refer to the same area of memory in both cases. This is different from, for example, strings, which take up new areas of memory every time they are used. 
 
 ###Creating Symbols
 
