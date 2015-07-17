@@ -1,5 +1,9 @@
 # Data Types
 
+## Objectives
+
+Understand the different types of data in the Ruby language, how they are written and what that are used for. 
+
 ## Introduction
 
 Just like the English language has different types of data or ways of representing information––words, numbers, lists, etc––Ruby has several different data types. Ruby data types are also known as classes. Ruby has several classes built in, but you'll learn how to make your own classes later on. 
