@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Understand the different types of data in the Ruby language, how they are written and what that are used for. 
+Understand the different types of data in the Ruby language, how they are written and what they are used for. 
 
 ## Introduction
 
@@ -64,7 +64,7 @@ There are only two values of the Boolean data type: `true` and `false`. In Ruby,
 
 ###Creating Booleans
 
-Unlike strings, there is not way to create a Boolean value, other than to excplicity write `true` or `false`. Later, we will see that we can write lines of code that *evaluate to* or return `true` and `false`, but we won't worry about that for now. 	
+Unlike strings, there is not way to create a Boolean value, other than to explicitly write `true` or `false`. Later, we will see that we can write lines of code that *evaluate to* or return `true` and `false`, but we won't worry about that for now. 	
 
 ###Operating on Booleans
 
@@ -105,7 +105,7 @@ You write symbols by placing a `:` in front of the symbol name.
 
 `:this_is_a_symbol`
 
-The usefullness of symbols will become more apparent later on, so that's all on symbols for now. 
+The usefulness of symbols will become more apparent later on, so that's all on symbols for now. 
 
 ##Arrays
 Arrays are collections of Ruby objects. You can store any type of data in an array. 
@@ -145,7 +145,7 @@ Hashes can be created with literal constructors and class constructors.
 **The Class Constructor:** Or, you can use the [`Hash.new` syntax](http://ruby-doc.org/core-2.2.0/Hash.html), which would create an empty hash, `{}`. 
 
 ###Operating on Hashes
-There are many methods for operating on hashes and their individual key/value pairs. We will learn much more about them later, but you can preview some [here](http://ruby-doc.org/core-2.2.0/Hash.html). 
+There are many methods for operating on hashes and their individual key/value pairs. We will learn much more about them later, but you can preview some methods [here](http://ruby-doc.org/core-2.2.0/Hash.html). 
 
 
 
