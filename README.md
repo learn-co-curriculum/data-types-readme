@@ -82,9 +82,9 @@ You probably already know from the real world (as opposed to the Ruby world) tha
 
 Once again, there is no special magic to creating integers. Simply declare them by typing `9000123` or `.02`. 
 
-###Operating on Integers
+###Operating on Fixnums and Floats
 
-There are a number of methods available to you for operating on or manipulating integers. You can read more about them [here](http://ruby-doc.org/core-2.2.0/Integer.html). For now, we'll just check out a few examples: 
+There are a number of methods available to you for operating on or manipulating integers. You can read more about Fixnums [here](http://ruby-doc.org/core-2.2.0/Fixnum.html) and more about Floats [here](http://ruby-doc.org/core-2.2.0/Float.html) For now, we'll just check out a few examples: 
 
 ```ruby
 7.5.floor
