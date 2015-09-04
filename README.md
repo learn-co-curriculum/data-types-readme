@@ -64,7 +64,7 @@ There are only two values of the Boolean data type: `true` and `false`. In Ruby,
 
 ###Creating Booleans
 
-Unlike strings, there is not way to create a Boolean value, other than to explicitly write `true` or `false`. Later, we will see that we can write lines of code that *evaluate to* or return `true` and `false`, but we won't worry about that for now. 	
+Unlike strings, there is not a way to create a Boolean value, other than to explicitly write `true` or `false`. Later, we will see that we can write lines of code that *evaluate to* or return `true` and `false`, but we won't worry about that for now. 	
 
 ###Operating on Booleans
 
