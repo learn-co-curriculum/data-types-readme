@@ -1,23 +1,14 @@
 # Data Types
 
+## Overview
+
+This lesson will introduce you to the six data types in Ruby. Just like the English language has different types of data or ways of representing information––words, numbers, lists, etc––Ruby has several different data types, which are also known as classes. (Ruby has several classes built in, but you'll learn how to make your own classes later on.)
+
+
 ## Objectives
-
-Understand the different types of data in the Ruby language, how they are written and what they are used for. 
-
-## Introduction
-
-Just like the English language has different types of data or ways of representing information––words, numbers, lists, etc––Ruby has several different data types. Ruby data types are also known as classes. Ruby has several classes built in, but you'll learn how to make your own classes later on. 
-
-Ruby has the following data types:
-
-* Booleans
-* Symbols
-* Numbers
-* Strings
-* Arrays
-* Hashes
-
-You'll become much more familiar with these data types throughout the course, this is just a basic introduction. 
+1. Identify and construct the six data types in Ruby: booleans, symbols, numbers, strings, arrays, and hashes
+2. Distinguish between the literal and class constructor when creating strings, arrays, and hashes
+3. Perform basic operations on data types
 
 ##Strings
 ###What is a String?
