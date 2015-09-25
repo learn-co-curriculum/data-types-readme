@@ -10,6 +10,12 @@ This lesson will introduce you to the six data types in Ruby. Just like the Engl
 2. Distinguish between the literal and class constructor when creating strings, arrays, and hashes
 3. Perform basic operations on data types
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iaz3dojT9ew" frameborder="0"
+allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=iaz3dojT9ew">Ruby Data Types</a></p>
+
+
 ##Strings
 ###What is a String?
 A string is a data type that represents textual data. In Ruby, a string is a sequence of characters enclosed in double or single quotes. 
