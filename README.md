@@ -79,7 +79,7 @@ You probably already know from the real world (as opposed to the Ruby world) tha
 
 ### Creating Integers
 
-Once again, there is no special magic to creating integers. Simply declare them by typing `9000123` or `.02`.
+Once again, there is no special magic to creating integers. Simply declare them by typing `9000123` or `2`.
 
 ### Operating on Fixnums and Floats
 
