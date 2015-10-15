@@ -69,7 +69,7 @@ Unlike strings, there is not a way to create a Boolean value, other than to expl
 
 We don't!
 
-## Integers
+## Numbers
 
 You probably already know from the real world (as opposed to the Ruby world) that integers are numbers. In Ruby, there are two types of numbers: Fixnums and Floats.
 
