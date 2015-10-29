@@ -116,7 +116,7 @@ There are a number of ways to create an array. Just like with creating strings, 
 
 **The Literal Constructor:**`[1, 3, 400, 7]` is an array of integers. Any set of comma separated data enclosed in brackets is an array. So, by simply writing something like the above, you can create an array.
 
-**The Class Constructor:** You can also create an array with the [`Array.new` syntax](http://ruby-doc.org/core-2.2.0/Array.html). Just typing `Array.new` will created an empty array (`=> []`).
+**The Class Constructor:** You can also create an array with the [`Array.new` syntax](http://ruby-doc.org/core-2.2.0/Array.html). Just typing `Array.new` will create an empty array (`=> []`).
 
 ### Operating on Arrays
 
