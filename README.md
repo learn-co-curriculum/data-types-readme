@@ -154,3 +154,5 @@ There are many methods for operating on hashes and their individual key/value pa
 
 ## Resources
 * [RailsBridge](http://docs.railsbridge.org) - [Data Types](http://docs.railsbridge.org/ruby/datatypes)
+
+<a href='https://learn.co/lessons/data-types-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
