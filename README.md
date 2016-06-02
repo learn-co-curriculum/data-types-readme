@@ -83,7 +83,7 @@ Once again, there is no special magic to creating integers. Simply declare them 
 
 ### Operating on Fixnums and Floats
 
-There are a number of methods available to you for operating on or manipulating integers. You can read more about Fixnums [here](http://ruby-doc.org/core-2.2.0/Fixnum.html) and more about Floats [here](http://ruby-doc.org/core-2.2.0/Float.html) For now, we'll just check out a few examples:
+There are a number of methods available to you for operating on or manipulating integers. You can read more about Fixnums [here](http://ruby-doc.org/core-2.2.0/Fixnum.html) and more about Floats [here](http://ruby-doc.org/core-2.2.0/Float.html). For now, we'll just check out a few examples:
 
 ```ruby
 7.5.floor
@@ -156,3 +156,5 @@ There are many methods for operating on hashes and their individual key/value pa
 * [RailsBridge](http://docs.railsbridge.org) - [Data Types](http://docs.railsbridge.org/ruby/datatypes)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/data-types-readme' title='Data Types'>Data Types</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/data-types-readme'>Ruby Data Types</a> on Learn.co and start learning to code for free.</p>
