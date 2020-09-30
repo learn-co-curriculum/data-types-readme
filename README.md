@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lesson will introduce you to the six data types in Ruby. Just like the English language has different types of data or ways of representing information––words, numbers, lists, etc––Ruby has several different data types, which are also known as classes. (Ruby has several classes built in, but you'll learn how to make your own classes later on.)
+This lesson will introduce you to the six data types in Ruby. Just like the English language has different types of data or ways of representing information––words, numbers, lists, etc––Ruby has several different data types, which are also known as classes. (Ruby has several classes built in, but you'll learn how to make your classes later on.)
 
 ## Objectives
 
@@ -36,7 +36,7 @@ There are two ways to create a string. In fact, we've already created a string j
 
 Try it out by opening up IRB, and typing `"hello".class`
 
-You should see a return value of ` => String `. You can actually call `.class` on any object to find out what type of data, i.e. what class, it is.
+You should see a return value of ` => String `. You can call `.class` on any object to find out what type of data, i.e. what class, it is.
 
 **The Literal Constructor:** This is the method through which we created our "hello" string.
 
