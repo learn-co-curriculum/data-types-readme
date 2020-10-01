@@ -30,7 +30,7 @@ For example:
 
 The above string is an instance of Ruby's String class. In other words, the `"hello"` string is made based on the String template that is a part of Ruby. This means that every string we make has certain behaviors or attributes, just by virtue of it being a string.
 
-### Creating Strings
+### Creating a String
 
 There are two ways to create a string. In fact, we've already created a string just by typing `"hello"`.
 
