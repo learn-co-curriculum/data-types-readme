@@ -10,10 +10,6 @@ This lesson will introduce you to the six data types in Ruby. Just like the Engl
 2. Distinguish between the literal and class constructor when creating strings, arrays, and hashes
 3. Perform basic operations on data types
 
-## Video
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/iaz3dojT9ew?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 ## Strings
 
 ### What is a String?
